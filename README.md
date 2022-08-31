@@ -14,11 +14,13 @@
 - 🎹 Piano is one of my greatest passions! (Alongside coding!)
 
 ### Lets Connect:
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](linkedin)
 <br />
 ### Language and Tools:
 
 <br />
 <br />
-[portfolio]: sdfsdf
+[portfolio]: https://www.linkedin.com/in/patrickbasham/
 [linkedin]: sdfsdfs
 [twitter]: sdfsf
