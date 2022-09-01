@@ -24,8 +24,13 @@
 
 ---
 
-[![Patrick Basham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBasham&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Patrick Basham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBasham&count_private=true&show_icons=true&theme=dracula)
 
+![Patrick Basham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBasham&layout=compact)
+
+![Patrick Basham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PBasham)
+
+<br />
 
 ### Lets Connect:
 
