@@ -8,8 +8,8 @@
   - TypeScript.
 
 📜 I am currently working towards earning:
-    1. Google UX Certificate
-    2. AWS Certification
+1. Google UX Certificate
+2. AWS Certification
 
 🌱 September 2022 Goals:
   1. Create and release a Habit Tracker Mobil App.
