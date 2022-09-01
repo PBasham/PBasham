@@ -24,11 +24,11 @@
 
 ---
 
-![Patrick Basham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBasham&count_private=true&show_icons=true&theme=dracula)
+[![Patrick Basham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBasham&count_private=true&show_icons=true&theme=dracula)](https://github.com/PBasham)
 
-![Patrick Basham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBasham&layout=compact)
+[![Patrick Basham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBasham&layout=compact)](https://github.com/PBasham)
 
-![Patrick Basham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PBasham)
+[![Patrick Basham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PBasham)](https://github.com/PBasham)
 
 <br />
 
