@@ -15,10 +15,10 @@
 
 ### Lets Connect:
 
+[<img src="./imgs/globe-dark.svg" width=26px/>](patrickbasham.dev#gh-dark-mode-only)
+[<img src="./imgs/globe-light.svg" width=26px/>](patrickbasham.dev#gh-light-mode-only)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham/)
-<br />
-[<img src="./imgs/globe-dark.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham#gh-dark-mode-only)
-[<img src="./imgs/globe-light.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham#gh-light-mode-only)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="26px" />](https://www.linkedin.com/in/patrickbasham#gh-light-mode-only)
 <br />
 
 ### Language and Tools:
