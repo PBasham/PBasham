@@ -2,7 +2,6 @@
 
 <br />
 
-
 ## I believe in the power of code and collaboration to find a better way to do things!
 🏗 I am currently creating:
   - A React Native mobile app with Javascript.
