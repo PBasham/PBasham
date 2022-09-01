@@ -14,7 +14,7 @@
 🌱 September 2022 Goals:
   1. Create and release a Habit Tracker Mobil App.
   2. Create and deploy website using React.js and TypeScript.
-  
+
 🎹 Piano is one of my greatest passions! (Alongside coding!)
 
 ### Lets Connect:
