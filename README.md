@@ -15,12 +15,12 @@
 
 ### Lets Connect:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](linkedin)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham/)
 <br />
+[<img src="./imgs/globe-light.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham#gh-dark-mode-only)
+<br />
+
 ### Language and Tools:
 
 <br />
 <br />
-[portfolio]: https://www.linkedin.com/in/patrickbasham/
-[linkedin]: sdfsdfs
-[twitter]: sdfsf
