@@ -22,6 +22,11 @@
 
 <br />
 
+---
+
+[![Patrick Basham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBasham)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Lets Connect:
 
 [<img src="./imgs/globe-dark.svg" width=26px/>](patrickbasham.dev#gh-dark-mode-only)
