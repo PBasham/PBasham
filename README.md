@@ -1,5 +1,8 @@
 ### Hello! My name is patrick Basham.
 
+<br />
+
+
 ## I believe in the power of code and collaboration to find a better way to do things!
 🏗 I am currently creating:
   - A React Native mobile app with Javascript.
@@ -17,6 +20,8 @@
 
 🎹 Piano is one of my greatest passions! (Alongside coding!)
 
+<br />
+
 ### Lets Connect:
 
 [<img src="./imgs/globe-dark.svg" width=26px/>](patrickbasham.dev#gh-dark-mode-only)
@@ -25,6 +30,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham/)
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="26px" />](https://twitter.com/PatrickTBasham)
+
 <br />
 
 ### Language and Tools:
