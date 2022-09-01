@@ -49,7 +49,7 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="RESTful API" width="26px" src="https://www.clipartmax.com/png/middle/285-2851044_restful-search-api-rest-web-services-logo.png" style="padding-right:10px;" />
+<img align="left" alt="RESTful API" width="26px" src="https://www.clipartmax.com/png/full/285-2851044_restful-search-api-rest-web-services-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
