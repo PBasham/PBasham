@@ -22,8 +22,6 @@
 
 <br />
 
----
-
 ### Lets Connect:
 
 [<img src="./imgs/globe-dark.svg" width=26px/>](patrickbasham.dev#gh-dark-mode-only)
