@@ -17,8 +17,10 @@
 
 [<img src="./imgs/globe-dark.svg" width=26px/>](patrickbasham.dev#gh-dark-mode-only)
 [<img src="./imgs/globe-light.svg" width=26px/>](patrickbasham.dev#gh-light-mode-only)
+&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="26px" />](https://www.linkedin.com/in/patrickbasham#gh-light-mode-only)
+&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="26px" />](https://twitter.com/PatrickTBasham)
 <br />
 
 ### Language and Tools:
