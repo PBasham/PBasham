@@ -33,8 +33,8 @@
 
 ### Lets Connect:
 
-[<img src="./imgs/globe-dark.svg" width=26px/>](patrickbasham.dev#gh-dark-mode-only)
-[<img src="./imgs/globe-light.svg" width=26px/>](patrickbasham.dev#gh-light-mode-only)
+[<img src="./imgs/globe-dark.svg" width=26px/>](https://patrickbasham.dev#gh-dark-mode-only)
+[<img src="./imgs/globe-light.svg" width=26px/>](https://patrickbasham.dev#gh-light-mode-only)
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=26px/>](https://www.linkedin.com/in/patrickbasham/)
 &nbsp;&nbsp;
