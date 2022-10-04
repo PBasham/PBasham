@@ -27,8 +27,8 @@
 
 [![Patrick Basham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBasham&layout=compact)](https://github.com/PBasham)
 
-# Not working for some reason.
-# [![Patrick Basham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PBasham)](https://github.com/PBasham)
+<!-- Not working for some reason. -->
+<!-- [![Patrick Basham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PBasham)](https://github.com/PBasham) -->
 
 <br />
 
