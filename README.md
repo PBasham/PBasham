@@ -13,9 +13,9 @@
 1. Google UX Certificate
 2. AWS Certification
 
-🌱 September 2022 Goals:
-  1. Create and release a Habit Tracker Mobil App.
-  2. Create and deploy website using React.js and TypeScript.
+🌱 October 2022 Goals:
+  1. Complete and release a Habit Tracker Mobil App.
+  2. Expand my deapth of knowledge in Java
 
 🎹 Piano is one of my greatest passions! (Alongside coding!)
 
