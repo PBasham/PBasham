@@ -8,14 +8,13 @@
 
 📚 I am currently learning:
   - TypeScript.
+  - Java
 
 📜 I am currently working towards earning:
-1. Google UX Certificate
-2. AWS Certification
+  1. AWS Certification
 
-🌱 October 2022 Goals:
+🌱 December 2022 Goals:
   1. Complete and release a Habit Tracker Mobil App.
-  2. Expand my deapth of knowledge in Java
 
 🎹 Piano is one of my greatest passions! (Alongside coding!)
 
@@ -25,7 +24,7 @@
 
 [![Patrick Basham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PBasham&count_private=true&show_icons=true&theme=dracula)](https://github.com/PBasham)
 
-[![Patrick Basham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBasham&layout=compact)](https://github.com/PBasham)
+[![Patrick Basham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBasham&hide=php)](https://github.com/PBasham)
 
 <!-- Not working for some reason. -->
 <!-- [![Patrick Basham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PBasham)](https://github.com/PBasham) -->
