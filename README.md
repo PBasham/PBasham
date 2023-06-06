@@ -23,6 +23,7 @@
   3. Build out a steady version 1 of the Mobile app I'm working on.
 
 🎹 Piano is one of my greatest passions! (Alongside coding!)
+
 👾 I also love pixel art and make some myself from time to time.
 
 <br />
