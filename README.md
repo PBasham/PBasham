@@ -7,20 +7,9 @@
   - A React Native mobile app with Typescript.
   - Building out my own React-ts component libraries for ui items.
 
-📚 I am currently learning:
-  - c#
-
-🧠 Deepening my unserstanding of:
-  - SQL
-  - TypeScript
-
 📜 I am currently working towards earning:
   1. AWS Certification
 
-🌱 June 2023 Goals:
-  1. Flush out my Button component library
-  2. Build out a lightbox componenet library
-  3. Build out a steady version 1 of the Mobile app I'm working on.
 
 🎹 Piano is one of my greatest passions! (Alongside coding!)
 
